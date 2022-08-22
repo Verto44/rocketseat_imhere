@@ -49,4 +49,8 @@ export const styles = StyleSheet.create({
     textAlign: "center",
     fontSize: 16,
   },
+  emptyListContentStyle: {
+    flexGrow: 1,
+    justifyContent: "center",
+  },
 });
