@@ -6,8 +6,8 @@
 </p>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./printscreen/screen_1.jpeg" width="400" height="600"/>
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./printscreen/screen_2.jpeg" width="400" height="600"/>
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./printscreen/screen_1.jpeg" width="350" height="734"/>
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./printscreen/screen_2.jpeg" width="350" height="734"/>
 </h1>
 
 ### Features
