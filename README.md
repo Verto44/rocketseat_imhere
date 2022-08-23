@@ -5,6 +5,10 @@
 É um app para cadastro de participantes em eventos
 </p>
 
+<h1 align="center">
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./printscreen/screen_1.jpeg" />
+</h1>
+
 ### Features
 
 - [x] FlatList
