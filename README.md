@@ -2,7 +2,7 @@
     <a href="https://pt-br.reactjs.org/"> Imhere</a>
 </h1>
 <p align="center">🚀 Projeto 01 do curso da rocketseat - trilha 2022.
-É um app para cadastro de participantes em eventos
+App para cadastro de participantes em eventos
 </p>
 
 <h1 align="center">
