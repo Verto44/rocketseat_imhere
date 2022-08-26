@@ -6,8 +6,8 @@ App para cadastro de participantes em eventos
 </p>
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./printscreen/screen_1.jpeg" width="350" height="734"/>
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./printscreen/screen_2.jpeg" width="350" height="734"/>
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./printscreen/screen_1.jpeg" width="250" height="524"/>
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="./printscreen/screen_2.jpeg" width="250" height="524"/>
 </h1>
 
 ### Features
